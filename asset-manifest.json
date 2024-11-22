@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2926114.css",
+    "main.js": "/static/js/main.f25d08aa.js",
+    "static/media/Skin-Anatomy.mp4": "/static/media/Skin-Anatomy.f3ae70908e55fe87ef96.mp4",
+    "static/media/Intro-common.mp4": "/static/media/Intro-common.cdf94bc318b26c0cd76c.mp4",
+    "static/media/Convatec-footer-logo.png": "/static/media/Convatec-footer-logo.0fa52c5690de142f1b7d.png",
+    "index.html": "/index.html",
+    "main.c2926114.css.map": "/static/css/main.c2926114.css.map",
+    "main.f25d08aa.js.map": "/static/js/main.f25d08aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2926114.css",
+    "static/js/main.f25d08aa.js"
+  ]
+}
